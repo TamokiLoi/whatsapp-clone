@@ -71,11 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Tech in todays build
 
-React
-React Router
-React Context API
-Redux
-Firebase Firestore Realtime db
-Material UI
-Google Authentication
-Deploy using Firebase!
+React, React Router, React Context API, Redux, Firebase Firestore Realtime db, Material UI, Google Authentication, Deploy using Firebase!
